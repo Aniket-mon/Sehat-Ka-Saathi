@@ -19,22 +19,30 @@ Features
 5. Responsive UI: Designed to work smoothly across devices, whether mobile, tablet, or desktop.
 
 Tech Stack
+
 Frontend:
-    HTML5, CSS3, JavaScript
-    React.js
+HTML5, CSS3, JavaScript
+React.js
+
 Backend:
-    Node.js, Express.js
+Node.js, Express.js
+
 Database:
-    MongoDB (Hosted on MongoDB Atlas)
+MongoDB (Hosted on MongoDB Atlas)
+
 Containerization:
-    Docker (for containerizing both frontend and backend)
+Docker (for containerizing both frontend and backend)
+
 Cloud Deployment:
-    AWS EC2 (for hosting the Docker containers)
-    AWS S3 (for storing static assets, if necessary)
+AWS EC2 (for hosting the Docker containers)
+AWS S3 (for storing static assets, if necessary)
+
 Notifications:
-    Browser Notifications API
-    Nodemailer for email notifications
+Browser Notifications API
+Nodemailer for email notifications
+
 Version Control:
-    Git & GitHub
+Git & GitHub
+
 Deployment Automation:
-    Docker Compose (for orchestrating multi-container setups)
+Docker Compose (for orchestrating multi-container setups)
