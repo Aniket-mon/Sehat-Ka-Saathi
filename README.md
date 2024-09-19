@@ -3,6 +3,7 @@
 Sehat Ka Saathi - Medication Reminder App
 
 Project Overview
+
 Sehat Ka Saathi is a MERN stack-based medication reminder app that helps users manage their daily medication schedule efficiently. The app allows users to register, schedule their medication reminders, and receive timely notifications to ensure they never miss a dose. Users can also track their medication history for better health management.
 
 This app is designed to promote healthier habits and assist individuals in adhering to prescribed medications. 
