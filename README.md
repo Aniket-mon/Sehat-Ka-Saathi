@@ -8,7 +8,7 @@ Sehat Ka Saathi is a MERN stack-based medication reminder app that helps users m
 
 This app is designed to promote healthier habits and assist individuals in adhering to prescribed medications. 
 
-It also caters to elderly individuals who may struggle to remember taking their medications on time. The app simplifies the process of managing daily medications by providing easy-to-use features that help users set up timely reminders for each dose. By offering notifications and clear scheduling, DawaiYaad ensures that users or their caregivers can stay on top of medication routines, promoting healthier habits and improving overall well-being.
+It also caters to elderly individuals who may struggle to remember taking their medications on time. The app simplifies the process of managing daily medications by providing easy-to-use features that help users set up timely reminders for each dose. By offering notifications and clear scheduling, Sehat Ka Saathi ensures that users or their caregivers can stay on top of medication routines, promoting healthier habits and improving overall well-being.
 With its intuitive interface, Sehat Ka Saathi is tailored to meet the needs of elderly users, ensuring a seamless experience across different devices, making it easier for them to maintain their health independently.
 
 Features
@@ -20,29 +20,22 @@ Features
 
 Tech Stack
 
-Frontend:
-HTML5, CSS3, JavaScript
-React.js
-
-Backend:
-Node.js, Express.js
-
-Database:
-MongoDB (Hosted on MongoDB Atlas)
-
-Containerization:
-Docker (for containerizing both frontend and backend)
-
-Cloud Deployment:
-AWS EC2 (for hosting the Docker containers)
-AWS S3 (for storing static assets, if necessary)
-
-Notifications:
-Browser Notifications API
-Nodemailer for email notifications
-
-Version Control:
-Git & GitHub
-
-Deployment Automation:
-Docker Compose (for orchestrating multi-container setups)
+- **Frontend**:
+    - HTML5, CSS3, JavaScript
+    - React.js
+- **Backend**:
+    - Node.js, Express.js
+- **Database**:
+    - MongoDB (Hosted on MongoDB Atlas)
+- **Containerization**:
+    - Docker (for containerizing both frontend and backend)
+- **Cloud Deployment**:
+    - AWS EC2 (for hosting the Docker containers)
+    - AWS S3 (for storing static assets, if necessary)
+- **Notifications**:
+    - Browser Notifications API
+    - Nodemailer for email notifications
+- **Version Control**:
+    - Git & GitHub
+- **Deployment Automation**:
+    - Docker Compose (for orchestrating multi-container setups)
