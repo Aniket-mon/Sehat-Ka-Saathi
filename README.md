@@ -1,6 +1,6 @@
 
 
-# Sehat Ka Saathi - Doctor Reminder App
+# Sehat Ka Saathi - Revolutionizing Doctor-Patient Interactions
 
 ## Project Overview
 
