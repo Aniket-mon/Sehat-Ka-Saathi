@@ -4,39 +4,28 @@
 
 ## Project Overview
 
-Sehat Ka Saathi is a MERN stack-based medication reminder app that helps users manage their daily medication schedule efficiently. The app allows users to register, schedule their medication reminders, and receive timely notifications to ensure they never miss a dose. Users can also track their medication history for better health management.
+Sehat Ka Saathi is an web-application for providing one shot solution for doctors and patients. This will bring the entire doctor-patient appointment system to your fingertips making a seamless experience between both the parties.
 
-This app is designed to promote healthier habits and assist individuals in adhering to prescribed medications. 
+It has a sign-in page for existing users and a sign-up page for new users. Users can register as a doctor or as a patient. 
 
-It also caters to elderly individuals who may struggle to remember taking their medications on time. The app simplifies the process of managing daily medications by providing easy-to-use features that help users set up timely reminders for each dose. By offering notifications and clear scheduling, Sehat Ka Saathi ensures that users or their caregivers can stay on top of medication routines, promoting healthier habits and improving overall well-being.
+This app is designed to create a seamless experience for patients and doctors to ease the hospital like doctor appointment environment. 
 
-With its intuitive interface, Sehat Ka Saathi is tailored to meet the needs of elderly users, ensuring a seamless experience across different devices, making it easier for them to maintain their health independently.
+With its user friendly interface, Sehat Ka Saathi is tailored to meet the needs of people living in rural areas, people who want to find a better way to book appointments with doctors and doctors themselves, ensuring a seamless experience across different devices, innovating the patient-doctor culture.
 
 ## Features
 1. User Authentication: Secure user login and registration system.
-2. Add Medication: Schedule medications with dosage, frequency, and reminder time.
-3. Reminder Notifications: Receive notifications (browser-based or via email) when it's time to take medication.
-4. Medication History: Track past medication records and mark whether they were taken or missed.
-5. Responsive UI: Designed to work smoothly across devices, whether mobile, tablet, or desktop.
+2. Patient/Doctor Profile : Store the personal details in a secure environment and publically display the necesaary details (eg-speciality and education of doctor).
+3. Add Patient/Doctor: Find patients and connect with doctors according to your budget/needs/availabilty.
+4. Book/accept appointments: Receive and accept/cancel appointments (in-app) and book appointements with the right doctors with ease.
+5. Track Medication History: Track past diagnosis records, health conditions and store them in a secure environment.
+6. Message : Chat with your doctors and fellow patients bridging the communication gap.
+7. Responsive and User Friendly UI: Designed to work smoothly across devices, whether mobile, tablet, or desktop.
 
 ## Tech Stack
 
 - **Frontend**:
-    - HTML5, CSS3, JavaScript
-    - React.js
+    - HTML5 and CSS3
+    - JavaScript
 - **Backend**:
-    - Node.js, Express.js
-- **Database**:
-    - MongoDB (Hosted on MongoDB Atlas)
-- **Containerization**:
-    - Docker (for containerizing both frontend and backend)
-- **Cloud Deployment**:
-    - AWS EC2 (for hosting the Docker containers)
-    - AWS S3 (for storing static assets, if necessary)
-- **Notifications**:
-    - Browser Notifications API
-    - Nodemailer for email notifications
-- **Version Control**:
-    - Git & GitHub
-- **Deployment Automation**:
-    - Docker Compose (for orchestrating multi-container setups)
+      - in progress
+
