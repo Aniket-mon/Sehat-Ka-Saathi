@@ -26,6 +26,21 @@ With its user friendly interface, Sehat Ka Saathi is tailored to meet the needs 
 - **Frontend**:
     - HTML5 and CSS3
     - JavaScript
-- **Backend**:
-      - in progress
+- **Backend**: 
+	- in progress
+
+
+## Presentation
+
+https://app.presentations.ai/view/Wgw8BY
+
+## Made with love by Team Udaan
+
+![Team udaan logo](https://github.com/user-attachments/assets/182919fd-f3a3-4512-92f4-1e28fd82b84a)
+
+
+### Contributors
+- Srujal Sau - https://github.com/22srujal
+- Yash Rawat - https://github.com/YashRawat12345
+- Aniket Bhattacharya - https://github.com/Aniket-mon
 
